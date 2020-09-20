@@ -177,9 +177,6 @@
   <data name="&gt;&gt;LblMainMenu.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <metadata name="MainMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
   <data name="MainMenu.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 14.25pt</value>
   </data>
@@ -236,9 +233,6 @@
   <data name="&gt;&gt;MainMenu.Type" xml:space="preserve">
     <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <metadata name="PnlNav.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <data name="LblPS.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -249,7 +243,7 @@
     <value>MiddleLeft</value>
   </data>
   <data name="LblPS.Location" type="System.Drawing.Point, System.Drawing">
-    <value>138, 54</value>
+    <value>104, 54</value>
   </data>
   <data name="LblPS.Size" type="System.Drawing.Size, System.Drawing">
     <value>60, 21</value>
@@ -365,10 +359,10 @@
   <data name="PnlSettings.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="assetOpenGitHub.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="PicOpenGitHubPage.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Right</value>
   </data>
-  <data name="assetOpenGitHub.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="PicOpenGitHubPage.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAiJJREFUSEvd
         lU1r1FAYheMHSgUVVyIIBVvQYW5SsG66c9GFqC0qfiG69leoWXRyb6R2oRuhIH6s9AeI+/6CopaRYSY3
@@ -383,31 +377,28 @@
         1jKqDLJlDQAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="assetOpenGitHub.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="PicOpenGitHubPage.Location" type="System.Drawing.Point, System.Drawing">
     <value>681, 7</value>
   </data>
-  <data name="assetOpenGitHub.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="PicOpenGitHubPage.Size" type="System.Drawing.Size, System.Drawing">
     <value>24, 24</value>
   </data>
-  <data name="assetOpenGitHub.TabIndex" type="System.Int32, mscorlib">
+  <data name="PicOpenGitHubPage.TabIndex" type="System.Int32, mscorlib">
     <value>32</value>
   </data>
-  <metadata name="ToolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>229, 19</value>
-  </metadata>
-  <data name="assetOpenGitHub.ToolTip" xml:space="preserve">
-    <value>Open @github.com/builtbybel/privatezilla</value>
+  <data name="PicOpenGitHubPage.ToolTip" xml:space="preserve">
+    <value>I'm open on github/privatezilla</value>
   </data>
-  <data name="&gt;&gt;assetOpenGitHub.Name" xml:space="preserve">
-    <value>assetOpenGitHub</value>
+  <data name="&gt;&gt;PicOpenGitHubPage.Name" xml:space="preserve">
+    <value>PicOpenGitHubPage</value>
   </data>
-  <data name="&gt;&gt;assetOpenGitHub.Type" xml:space="preserve">
+  <data name="&gt;&gt;PicOpenGitHubPage.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;assetOpenGitHub.Parent" xml:space="preserve">
+  <data name="&gt;&gt;PicOpenGitHubPage.Parent" xml:space="preserve">
     <value>PnlSettings</value>
   </data>
-  <data name="&gt;&gt;assetOpenGitHub.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;PicOpenGitHubPage.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <data name="PBar.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -840,9 +831,6 @@ To obtain new objects (templates, scripts etc.) visit the Marketplace in the upp
   <data name="&gt;&gt;PnlPS.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <metadata name="PSMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>132, 19</value>
-  </metadata>
   <data name="PSMenu.Font" type="System.Drawing.Font, System.Drawing">
     <value>Segoe UI, 14.25pt, style=Bold</value>
   </data>
@@ -1004,12 +992,6 @@ To obtain new objects (templates, scripts etc.) visit the Marketplace in the upp
   <data name="&gt;&gt;PnlSettingsBottom.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>87</value>
-  </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>96, 96</value>
   </data>
@@ -1094,4 +1076,22 @@ To obtain new objects (templates, scripts etc.) visit the Marketplace in the upp
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <metadata name="MainMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="PnlNav.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="ToolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>229, 19</value>
+  </metadata>
+  <metadata name="PSMenu.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 19</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>87</value>
+  </metadata>
 </root>
